@@ -1,0 +1,30 @@
+.App{
+
+  text-align: center
+  }
+  .Header{
+  
+  color:cornflowerblue;
+  font-size: 32px;
+  
+  }
+  h2{
+    margin-top: 15px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+    
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
